@@ -1,0 +1,25 @@
+cd= Change Directory
+vi= editor (create/ edit/ etc files)
+	i=insert mode
+	:q=quit
+	:w=write(save)
+	:wq!=write>quit>force
+	dd=deletes line in editor
+	:set nu=displays row numbers
+	:number(ex=:4 takes you to line 4)
+	/    =will do a search shift+n will take you to next entry of search
+
+ls=List 
+man=manual for all commands
+cat= displays all contents in file(read only)
+curl/wget=retrieves and downloads from the internet
+tar=unzipping a file
+mv=move a file (renaming a file)
+sudo (command)=run command as root
+sudo su -=switches user to root
+su= switch user
+rm=remove
+cd ..= takes you back one directory
+cd ../.. = takes you back two directories(can use multiple .. for multiple d	directories)
+  
+
