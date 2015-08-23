@@ -1,0 +1,19 @@
+in order to create a new function you must first create a //prototype  above the main. Then create the funtion at the below the function declaration)
+
+EX:
+void PrintName(string q);
+{
+	 printf("hello %s\n", q);
+
+}
+int main(void)
+{
+    printf("Your Name Please:");
+    string s= GetString();
+    PrintName(s);
+}
+
+
+When declaring a variable the declaration will only apply in the most recent set of curly braces. If the variable is needed throughout the code you must declare it before all functions. 
+
+
