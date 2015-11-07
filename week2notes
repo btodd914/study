@@ -16,4 +16,19 @@ int main(void)
 
 When declaring a variable the declaration will only apply in the most recent set of curly braces. If the variable is needed throughout the code you must declare it before all functions. 
 
+strlen()= string length
+
+toupper= captilizes a character (requires ctype.h library)
+tolower=lower cases a char (requires ctype.h library)#includint
+islower= checks to see if it is a lower case char
+
+reference.cs50.net (reference page for syntax)
+\0 represents 8 zero bits in a row which means that it is the end of a string
+array- type of data structure (like a box) contiguous sequence of a data type that is back to back
+
+
+.h stands for a header file
+.c is for a compliler file
+.o is an executed file
+
 

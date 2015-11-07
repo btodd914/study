@@ -1,0 +1,4 @@
+Scope- to what extent does your code implement the features required by our specs
+Correctness- to what extent is your code consistent with our specs and free of bugs
+design- is your code written well
+style- is your code readable(commented and indented, variables aptly named

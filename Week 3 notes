@@ -1,0 +1,13 @@
+argv: argument Vector (array)
+argc: Argument count (int)
+EX:
+int main(int argc, string argv[])
+    {
+        printf("hello, %s\n," argv[1])
+
+    }
+
+argc tells when to quit in the array
+argv is the different arrays
+by using two [] roight next to eachother in an argv you are nesting in order to get a certain char in a certain string
+
