@@ -1,0 +1,19 @@
+
+.java-  the source code is contained in a .java file
+javac- the source code is compiled by javac
+.class- the result is a .class file (bytecode)
+java- the class file is executed by the java runtime
+
+compiling:
+  go to the directory where the source code files are stored. 
+  enter the folowing comman for each .java file you want to compile
+  Syntax: java <classname>
+  (Do not include .class)
+  Folder Options: make sure that "hide extensions for known file types" is not selected
+
+Output for java:
+  to a file or database
+  to a console
+  to a webpage or other UI
+
+
